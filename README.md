@@ -1,6 +1,6 @@
 
 
-## Heart Disease Prediction and Lifestyle Recommendation Web Application
+## Heart Failure Risk Prediction Web Application
 
 This project is a web application developed using Flask, a Python web framework, for predicting the risk of heart disease and providing personalized lifestyle recommendations based on user input.
 
